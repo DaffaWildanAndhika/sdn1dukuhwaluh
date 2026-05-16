@@ -1,0 +1,6 @@
+{
+  "name": "E-School Hub",
+  "description": "Sistem Informasi Sekolah terpadu dengan fitur PPDB Online, Berita, Galeri, dan Dashboard Administrasi Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
